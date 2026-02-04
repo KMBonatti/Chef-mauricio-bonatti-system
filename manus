@@ -1,0 +1,8 @@
+# No seu computador, abra o terminal e execute:
+cd /caminho/para/chef-bonatti-system
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/seu_usuario/chef-bonatti-system.git
+git push -u origin main
